@@ -1,0 +1,57 @@
+C:\Users\daru_\source\repos\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe.config
+C:\Users\daru_\source\repos\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe
+C:\Users\daru_\source\repos\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.pdb
+C:\Users\daru_\source\repos\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.AssemblyReference.cache
+C:\Users\daru_\source\repos\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Properties.Resources.resources
+C:\Users\daru_\source\repos\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.GenerateResource.cache
+C:\Users\daru_\source\repos\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.CoreCompileInputs.cache
+C:\Users\daru_\source\repos\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.exe
+C:\Users\daru_\source\repos\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.pdb
+C:\Users\daru_\source\repos\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Iniciar_Sesion.resources
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe.config
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.pdb
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.AssemblyReference.cache
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Administrador.resources
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Gerente.resources
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Iniciar_Sesion.resources
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Properties.Resources.resources
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Vendedor.resources
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.GenerateResource.cache
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.CoreCompileInputs.cache
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.exe
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.pdb
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe.config
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.pdb
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.AssemblyReference.cache
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Administrador.resources
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Form1.resources
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Gerente.resources
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Iniciar_Sesion.resources
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Properties.Resources.resources
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Vendedor.resources
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.GenerateResource.cache
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.CoreCompileInputs.cache
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.exe
+C:\Users\EEST N° (Net 6)\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.pdb
+C:\Users\daru_\source\repos\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.EncargadoDeDeposito.resources
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe.config
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.pdb
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.AssemblyReference.cache
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Administrador.resources
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.EncargadoDeDeposito.resources
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Gerente.resources
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Iniciar_Sesion.resources
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Properties.Resources.resources
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Vendedor.resources
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.GenerateResource.cache
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.CoreCompileInputs.cache
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.exe
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.pdb
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\BLL.dll
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\DAL.dll
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\BLL.pdb
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\DAL.pdb
+C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_D.371456D0.Up2Date
