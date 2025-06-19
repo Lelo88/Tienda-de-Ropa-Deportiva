@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Tienda_De_Ropa
 {
-    public partial class EncargadoDeDeposito: Form
+    public partial class EncargadoDeDeposito : Form
     {
         public EncargadoDeDeposito()
         {

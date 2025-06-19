@@ -1,7 +1,59 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\daru_\\Desktop\\Proyecto de Tienda de Ropa\\Tienda_De_Ropa\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405E5E59-9CD0-4F9C-B71B-1B480F1EEF9D}|..\\DAL\\DAL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405E5E59-9CD0-4F9C-B71B-1B480F1EEF9D}|..\\DAL\\DAL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\dal\\empleadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\iniciar_sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|solutionrelative:iniciar_sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\tienda_de_ropa\\iniciar_sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|solutionrelative:iniciar_sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B78270F-6FF2-47C2-9A08-F4B72A1D22F1}|..\\BLL\\BLL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\bll\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B78270F-6FF2-47C2-9A08-F4B72A1D22F1}|..\\BLL\\BLL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\bll\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B78270F-6FF2-47C2-9A08-F4B72A1D22F1}|..\\BLL\\BLL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\bll\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\tienda_de_ropa\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\encargado de deposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|solutionrelative:encargado de deposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|solutionrelative:gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BCC190-17E5-470C-9922-D362AD515E2B}|Tienda_De_Ropa.csproj|solutionrelative:vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B78270F-6FF2-47C2-9A08-F4B72A1D22F1}|..\\BLL\\BLL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\bll\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B78270F-6FF2-47C2-9A08-F4B72A1D22F1}|..\\BLL\\BLL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\bll\\encargado_de_deposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B78270F-6FF2-47C2-9A08-F4B72A1D22F1}|..\\BLL\\BLL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\bll\\tipo_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B78270F-6FF2-47C2-9A08-F4B72A1D22F1}|..\\BLL\\BLL.csproj|c:\\users\\leandro\\documents\\upe\\tecnicas de programacion\\tienda-de-ropa-deportiva\\bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +61,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -21,7 +77,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -41,15 +97,215 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iniciar_Sesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Iniciar_Sesion.cs",
+              "RelativeDocumentMoniker": "Iniciar_Sesion.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Iniciar_Sesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Iniciar_Sesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:22:56.233Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Administrador.cs",
+              "RelativeDocumentMoniker": "Administrador.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Administrador.cs",
+              "RelativeToolTip": "Administrador.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:51:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Encargado de deposito.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Encargado de deposito.cs",
+              "RelativeDocumentMoniker": "Encargado de deposito.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Encargado de deposito.cs",
+              "RelativeToolTip": "Encargado de deposito.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:50:54.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Gerente.cs",
+              "RelativeDocumentMoniker": "Gerente.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Gerente.cs",
+              "RelativeToolTip": "Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:50:28.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iniciar_Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Iniciar_Sesion.cs",
+              "RelativeDocumentMoniker": "Iniciar_Sesion.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Iniciar_Sesion.cs",
+              "RelativeToolTip": "Iniciar_Sesion.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAtwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:49:32.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Vendedor.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\Tienda_De_Ropa\\Vendedor.cs",
+              "RelativeToolTip": "Vendedor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:48:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Administrador.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Administrador.cs",
+              "RelativeToolTip": "..\\BLL\\Administrador.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwBEAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:46:48.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Empleado.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Empleado.cs",
+              "RelativeToolTip": "..\\BLL\\Empleado.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:37:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Encargado_De_Deposito.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Encargado_De_Deposito.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Encargado_De_Deposito.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Encargado_De_Deposito.cs",
+              "RelativeToolTip": "..\\BLL\\Encargado_De_Deposito.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA7wCAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:37:06.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Gerente.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Gerente.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Gerente.cs",
+              "RelativeToolTip": "..\\BLL\\Gerente.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwCIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:35:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tipo_empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Tipo_empleado.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Tipo_empleado.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Tipo_empleado.cs",
+              "RelativeToolTip": "..\\BLL\\Tipo_empleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:33:58.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Vendedor.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Vendedor.cs",
+              "RelativeToolTip": "..\\BLL\\Vendedor.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:31:23.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Venta.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Venta.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\BLL\\Venta.cs",
+              "RelativeToolTip": "..\\BLL\\Venta.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:29:25.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\DAL\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\DAL\\Conexion.cs*",
+              "RelativeToolTip": "..\\DAL\\Conexion.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:25:50.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\DAL\\EmpleadoDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\EmpleadoDAL.cs",
+              "ToolTip": "C:\\Users\\Leandro\\Documents\\UPE\\TECNICAS DE PROGRAMACION\\Tienda-de-Ropa-Deportiva\\DAL\\EmpleadoDAL.cs",
+              "RelativeToolTip": "..\\DAL\\EmpleadoDAL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBEAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:25:40.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

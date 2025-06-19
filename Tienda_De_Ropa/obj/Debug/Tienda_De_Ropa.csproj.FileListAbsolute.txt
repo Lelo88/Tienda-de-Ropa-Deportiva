@@ -55,3 +55,23 @@ C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\DAL.d
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\BLL.pdb
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\bin\Debug\DAL.pdb
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\Tienda_De_Ropa\obj\Debug\Tienda_D.371456D0.Up2Date
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.exe.config
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Administrador.resources
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.EncargadoDeDeposito.resources
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Gerente.resources
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Iniciar_Sesion.resources
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Properties.Resources.resources
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.Vendedor.resources
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.GenerateResource.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.exe
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_De_Ropa.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe.config
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.exe
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\bin\Debug\Tienda_De_Ropa.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\bin\Debug\BLL.dll
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\bin\Debug\DAL.dll
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\bin\Debug\BLL.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\bin\Debug\DAL.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\Tienda_De_Ropa\obj\Debug\Tienda_D.371456D0.Up2Date
