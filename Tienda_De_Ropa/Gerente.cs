@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Tienda_De_Ropa
 {
-    public partial class Gerente: Form
+    public partial class Gerente : Form
     {
         public Gerente()
         {

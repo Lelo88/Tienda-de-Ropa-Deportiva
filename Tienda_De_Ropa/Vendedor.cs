@@ -12,12 +12,12 @@ using System.Windows.Forms;
 
 namespace Tienda_De_Ropa
 {
-    public partial class Vendedor: Form
+    public partial class Vendedor : Form
     {
         public Vendedor()
         {
             InitializeComponent();
-            
+
 
         }
 
@@ -79,18 +79,18 @@ namespace Tienda_De_Ropa
                 MessageBox.Show("El sistema seguira en funcionamiento");
             }
 
-            
+
 
         }
 
         private void label10_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void txt_Fecha_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void btn_CerrarSesion_Click(object sender, EventArgs e)

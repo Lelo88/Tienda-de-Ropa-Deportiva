@@ -4,3 +4,9 @@ C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\DAL\obj\Debug\DAL.csproj.Assem
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\DAL\obj\Debug\DAL.dll
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\DAL\obj\Debug\DAL.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\DAL\bin\Debug\DAL.dll
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\DAL\bin\Debug\DAL.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\DAL\obj\Debug\DAL.dll
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\DAL\obj\Debug\DAL.pdb

@@ -81,15 +81,12 @@ namespace BLL
 			this.usuario=usuario;
 			this.contrasenia=contrasenia;
 		}
-		
-		public virtual void Iniciar_Sesion()
-		{
-            Console.WriteLine("INICIANDO SESION...");
-        }
-		public virtual void Cerrar_Sesion() 
-		{
-            Console.WriteLine("CERRANDO SESION...");
+
+        public virtual bool Iniciar_Sesion(string usuario, string contrasenia)
+        {
+            return true;
         }
 
-	}
+
+    }
 }

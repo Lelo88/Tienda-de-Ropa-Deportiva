@@ -4,3 +4,12 @@ C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\BLL\bin\Debug\BLL.dll
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\BLL\bin\Debug\BLL.pdb
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\BLL\obj\Debug\BLL.dll
 C:\Users\daru_\Desktop\Proyecto de Tienda de Ropa\BLL\obj\Debug\BLL.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\obj\Debug\BLL.dll
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\obj\Debug\BLL.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\bin\Debug\BLL.dll
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\bin\Debug\BLL.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\bin\Debug\DAL.dll
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\bin\Debug\DAL.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\Tienda-de-Ropa-Deportiva\BLL\obj\Debug\BLL.csproj.Up2Date
